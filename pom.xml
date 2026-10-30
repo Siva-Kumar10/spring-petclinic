@@ -438,10 +438,10 @@
     </profile>
   </profiles>
   <distributionManagement>
-       <SnapshotRepository>
+       <snapshotRepository>
            <id>nexus</id>
            <name>Nexus Snapshots</name>
            <url>http://18.61.252.237:8081/repository/maven-snapshots/</url>
-       <snapshotRepository>
-  <distributionManagement>
+       </snapshotRepository>
+  </distributionManagement>
 </project>
