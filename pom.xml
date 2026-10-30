@@ -437,4 +437,11 @@
       </build>
     </profile>
   </profiles>
+  <distributionManagement>
+       <SnapshotRepository>
+           <id>nexus</id>
+           <name>Nexus Snapshots</name>
+           <url>http://18.61.252.237:8081/repository/maven-snapshots/</url>
+       <snapshotRepository>
+  <distributionManagement>
 </project>
